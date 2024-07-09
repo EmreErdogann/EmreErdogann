@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm EMRE ERDOGAN</h1>
-<h3 align="center">DEVELOPER (NETCORE && ANDROID)</h3>
+<h3 align="center">DEVELOPER (ANDROID)</h3>
 
 <p> 
 Hi I am 23 years old. I am a graduate of Sivas Cumhuriyet University Management Information Systems. I started to improve myself in the software field in my senior year of high school.
