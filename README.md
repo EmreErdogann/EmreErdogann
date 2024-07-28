@@ -2,7 +2,7 @@
 <h3 align="center">DEVELOPER (ANDROID)</h3>
 
 <p> 
-Hi I am 23 years old. I am a graduate of Sivas Cumhuriyet University Management Information Systems. I started to improve myself in the software field in my senior year of high school.
+Hi I am 24 years old. I am a graduate of Sivas Cumhuriyet University Management Information Systems. I started to improve myself in the software field in my senior year of high school.
 I entered the software world with HTML CSS and then improved myself in .NET. I am currently continuing my career as an Android Developer. For detailed information, you can say hello :)
 </p>
 
